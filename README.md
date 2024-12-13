@@ -10,7 +10,7 @@ To get started with the EV Charging Station Locator, follow the steps below:
 
 1. Clone the repository from GitHub:
 ```
-git clone https://github.com/tanmai22/EV-charging-station-locater.git
+git clone https://github.com/Alwaysomesh/Ev-station.git
 ```
 
 2. Change your current directory to the project folder:
